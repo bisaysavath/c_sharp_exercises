@@ -1,0 +1,6 @@
+C:\Users\bsaysavath\Desktop\Code\Chapter02\Variables\bin\Debug\Variables.exe.config
+C:\Users\bsaysavath\Desktop\Code\Chapter02\Variables\bin\Debug\Variables.exe
+C:\Users\bsaysavath\Desktop\Code\Chapter02\Variables\bin\Debug\Variables.pdb
+C:\Users\bsaysavath\Desktop\Code\Chapter02\Variables\obj\Debug\Variables.csprojResolveAssemblyReference.cache
+C:\Users\bsaysavath\Desktop\Code\Chapter02\Variables\obj\Debug\Variables.exe
+C:\Users\bsaysavath\Desktop\Code\Chapter02\Variables\obj\Debug\Variables.pdb

@@ -1,0 +1,5 @@
+C:\Users\bsaysavath\Desktop\Code\Chapter02\Arguments\bin\Debug\Arguments.exe.config
+C:\Users\bsaysavath\Desktop\Code\Chapter02\Arguments\bin\Debug\Arguments.exe
+C:\Users\bsaysavath\Desktop\Code\Chapter02\Arguments\bin\Debug\Arguments.pdb
+C:\Users\bsaysavath\Desktop\Code\Chapter02\Arguments\obj\Debug\Arguments.exe
+C:\Users\bsaysavath\Desktop\Code\Chapter02\Arguments\obj\Debug\Arguments.pdb
