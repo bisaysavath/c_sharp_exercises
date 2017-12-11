@@ -1,0 +1,6 @@
+C:\Users\bsaysavath\Desktop\Code\Chapter03\HandlingExceptions\bin\Debug\HandlingExceptions.exe.config
+C:\Users\bsaysavath\Desktop\Code\Chapter03\HandlingExceptions\bin\Debug\HandlingExceptions.exe
+C:\Users\bsaysavath\Desktop\Code\Chapter03\HandlingExceptions\bin\Debug\HandlingExceptions.pdb
+C:\Users\bsaysavath\Desktop\Code\Chapter03\HandlingExceptions\obj\Debug\HandlingExceptions.csprojResolveAssemblyReference.cache
+C:\Users\bsaysavath\Desktop\Code\Chapter03\HandlingExceptions\obj\Debug\HandlingExceptions.exe
+C:\Users\bsaysavath\Desktop\Code\Chapter03\HandlingExceptions\obj\Debug\HandlingExceptions.pdb

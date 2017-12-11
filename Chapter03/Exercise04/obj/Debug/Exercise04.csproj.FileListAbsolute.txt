@@ -1,0 +1,6 @@
+C:\Users\bsaysavath\Desktop\Code\Chapter03\Exercise04\bin\Debug\Exercise04.exe.config
+C:\Users\bsaysavath\Desktop\Code\Chapter03\Exercise04\bin\Debug\Exercise04.exe
+C:\Users\bsaysavath\Desktop\Code\Chapter03\Exercise04\bin\Debug\Exercise04.pdb
+C:\Users\bsaysavath\Desktop\Code\Chapter03\Exercise04\obj\Debug\Exercise04.csprojResolveAssemblyReference.cache
+C:\Users\bsaysavath\Desktop\Code\Chapter03\Exercise04\obj\Debug\Exercise04.exe
+C:\Users\bsaysavath\Desktop\Code\Chapter03\Exercise04\obj\Debug\Exercise04.pdb
