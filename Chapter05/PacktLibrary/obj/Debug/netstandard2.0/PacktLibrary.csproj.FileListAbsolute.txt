@@ -1,0 +1,9 @@
+C:\Users\bsaysavath\Desktop\Code\Chapter05\PacktLibrary\bin\Debug\netstandard2.0\PacktLibrary.deps.json
+C:\Users\bsaysavath\Desktop\Code\Chapter05\PacktLibrary\bin\Debug\netstandard2.0\PacktLibrary.dll
+C:\Users\bsaysavath\Desktop\Code\Chapter05\PacktLibrary\bin\Debug\netstandard2.0\PacktLibrary.pdb
+C:\Users\bsaysavath\Desktop\Code\Chapter05\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.csprojResolveAssemblyReference.cache
+C:\Users\bsaysavath\Desktop\Code\Chapter05\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.csproj.CoreCompileInputs.cache
+C:\Users\bsaysavath\Desktop\Code\Chapter05\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.AssemblyInfoInputs.cache
+C:\Users\bsaysavath\Desktop\Code\Chapter05\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.AssemblyInfo.cs
+C:\Users\bsaysavath\Desktop\Code\Chapter05\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.dll
+C:\Users\bsaysavath\Desktop\Code\Chapter05\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.pdb

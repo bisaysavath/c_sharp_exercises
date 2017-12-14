@@ -1,0 +1,5 @@
+C:\Users\bsaysavath\Desktop\Code\Chapter04\Instrumenting\bin\Release\Instrumenting.exe.config
+C:\Users\bsaysavath\Desktop\Code\Chapter04\Instrumenting\bin\Release\Instrumenting.exe
+C:\Users\bsaysavath\Desktop\Code\Chapter04\Instrumenting\bin\Release\Instrumenting.pdb
+C:\Users\bsaysavath\Desktop\Code\Chapter04\Instrumenting\obj\Release\Instrumenting.exe
+C:\Users\bsaysavath\Desktop\Code\Chapter04\Instrumenting\obj\Release\Instrumenting.pdb

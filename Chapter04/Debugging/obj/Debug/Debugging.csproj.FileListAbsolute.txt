@@ -1,0 +1,7 @@
+C:\Users\bsaysavath\Desktop\Code\Chapter04\Debugging\bin\Debug\Debugging.exe.config
+C:\Users\bsaysavath\Desktop\Code\Chapter04\Debugging\bin\Debug\Debugging.exe
+C:\Users\bsaysavath\Desktop\Code\Chapter04\Debugging\bin\Debug\Debugging.pdb
+C:\Users\bsaysavath\Desktop\Code\Chapter04\Debugging\obj\Debug\Debugging.csprojResolveAssemblyReference.cache
+C:\Users\bsaysavath\Desktop\Code\Chapter04\Debugging\obj\Debug\Debugging.exe
+C:\Users\bsaysavath\Desktop\Code\Chapter04\Debugging\obj\Debug\Debugging.pdb
+C:\Users\bsaysavath\Desktop\Code\Chapter04\Debugging\obj\Debug\Debugging.csproj.CoreCompileInputs.cache
