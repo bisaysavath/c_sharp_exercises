@@ -182,15 +182,12 @@
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
-      "projectUniqueName": "C:\\Users\\bsaysavath\\Desktop\\Code\\Chapter05\\PacktLibrary\\PacktLibrary.csproj",
+      "projectUniqueName": "c:\\Users\\bsaysavath\\Desktop\\Code\\Chapter05\\PacktLibrary\\PacktLibrary.csproj",
       "projectName": "PacktLibrary",
-      "projectPath": "C:\\Users\\bsaysavath\\Desktop\\Code\\Chapter05\\PacktLibrary\\PacktLibrary.csproj",
+      "projectPath": "c:\\Users\\bsaysavath\\Desktop\\Code\\Chapter05\\PacktLibrary\\PacktLibrary.csproj",
       "packagesPath": "C:\\Users\\bsaysavath\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bsaysavath\\Desktop\\Code\\Chapter05\\PacktLibrary\\obj\\",
+      "outputPath": "c:\\Users\\bsaysavath\\Desktop\\Code\\Chapter05\\PacktLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
