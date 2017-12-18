@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 C:\Users\bsaysavath\Desktop\Code\Chapter05\PeopleApp\bin\Debug\netcoreapp2.0\PeopleApp.deps.json
 C:\Users\bsaysavath\Desktop\Code\Chapter05\PeopleApp\bin\Debug\netcoreapp2.0\PeopleApp.runtimeconfig.json
 C:\Users\bsaysavath\Desktop\Code\Chapter05\PeopleApp\bin\Debug\netcoreapp2.0\PeopleApp.runtimeconfig.dev.json
@@ -11,18 +10,3 @@ C:\Users\bsaysavath\Desktop\Code\Chapter05\PeopleApp\obj\Debug\netcoreapp2.0\Peo
 C:\Users\bsaysavath\Desktop\Code\Chapter05\PeopleApp\obj\Debug\netcoreapp2.0\PeopleApp.pdb
 C:\Users\bsaysavath\Desktop\Code\Chapter05\PeopleApp\bin\Debug\netcoreapp2.0\PacktLibrary.dll
 C:\Users\bsaysavath\Desktop\Code\Chapter05\PeopleApp\bin\Debug\netcoreapp2.0\PacktLibrary.pdb
-=======
-/Users/bisaysavath/Desktop/Code/Chapter05/PeopleApp/bin/Debug/netcoreapp2.0/PeopleApp.deps.json
-/Users/bisaysavath/Desktop/Code/Chapter05/PeopleApp/bin/Debug/netcoreapp2.0/PeopleApp.runtimeconfig.json
-/Users/bisaysavath/Desktop/Code/Chapter05/PeopleApp/bin/Debug/netcoreapp2.0/PeopleApp.runtimeconfig.dev.json
-/Users/bisaysavath/Desktop/Code/Chapter05/PeopleApp/bin/Debug/netcoreapp2.0/PeopleApp.dll
-/Users/bisaysavath/Desktop/Code/Chapter05/PeopleApp/bin/Debug/netcoreapp2.0/PeopleApp.pdb
-/Users/bisaysavath/Desktop/Code/Chapter05/PeopleApp/bin/Debug/netcoreapp2.0/PacktLibrary.dll
-/Users/bisaysavath/Desktop/Code/Chapter05/PeopleApp/bin/Debug/netcoreapp2.0/PacktLibrary.pdb
-/Users/bisaysavath/Desktop/Code/Chapter05/PeopleApp/obj/Debug/netcoreapp2.0/PeopleApp.csprojResolveAssemblyReference.cache
-/Users/bisaysavath/Desktop/Code/Chapter05/PeopleApp/obj/Debug/netcoreapp2.0/PeopleApp.csproj.CoreCompileInputs.cache
-/Users/bisaysavath/Desktop/Code/Chapter05/PeopleApp/obj/Debug/netcoreapp2.0/PeopleApp.AssemblyInfoInputs.cache
-/Users/bisaysavath/Desktop/Code/Chapter05/PeopleApp/obj/Debug/netcoreapp2.0/PeopleApp.AssemblyInfo.cs
-/Users/bisaysavath/Desktop/Code/Chapter05/PeopleApp/obj/Debug/netcoreapp2.0/PeopleApp.dll
-/Users/bisaysavath/Desktop/Code/Chapter05/PeopleApp/obj/Debug/netcoreapp2.0/PeopleApp.pdb
->>>>>>> e54662b4fa8f63f174a6680ae62c10d73d4012dc
