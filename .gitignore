@@ -1,2 +1,5 @@
-Repos/*
-.DS_Store
+# Ignore everything
+*
+
+# Except
+*.cs
