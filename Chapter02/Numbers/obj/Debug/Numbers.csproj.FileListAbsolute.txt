@@ -1,6 +1,0 @@
-C:\Users\bsaysavath\Desktop\Code\Chapter02\Numbers\bin\Debug\Numbers.exe.config
-C:\Users\bsaysavath\Desktop\Code\Chapter02\Numbers\bin\Debug\Numbers.exe
-C:\Users\bsaysavath\Desktop\Code\Chapter02\Numbers\bin\Debug\Numbers.pdb
-C:\Users\bsaysavath\Desktop\Code\Chapter02\Numbers\obj\Debug\Numbers.csprojResolveAssemblyReference.cache
-C:\Users\bsaysavath\Desktop\Code\Chapter02\Numbers\obj\Debug\Numbers.exe
-C:\Users\bsaysavath\Desktop\Code\Chapter02\Numbers\obj\Debug\Numbers.pdb

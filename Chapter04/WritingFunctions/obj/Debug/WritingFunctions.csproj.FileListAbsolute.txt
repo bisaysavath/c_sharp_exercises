@@ -1,7 +1,0 @@
-C:\Users\bsaysavath\Desktop\Code\Chapter04\WritingFunctions\bin\Debug\WritingFunctions.exe.config
-C:\Users\bsaysavath\Desktop\Code\Chapter04\WritingFunctions\bin\Debug\WritingFunctions.exe
-C:\Users\bsaysavath\Desktop\Code\Chapter04\WritingFunctions\bin\Debug\WritingFunctions.pdb
-C:\Users\bsaysavath\Desktop\Code\Chapter04\WritingFunctions\obj\Debug\WritingFunctions.csprojResolveAssemblyReference.cache
-C:\Users\bsaysavath\Desktop\Code\Chapter04\WritingFunctions\obj\Debug\WritingFunctions.exe
-C:\Users\bsaysavath\Desktop\Code\Chapter04\WritingFunctions\obj\Debug\WritingFunctions.pdb
-C:\Users\bsaysavath\Desktop\Code\Chapter04\WritingFunctions\obj\Debug\WritingFunctions.csproj.CoreCompileInputs.cache

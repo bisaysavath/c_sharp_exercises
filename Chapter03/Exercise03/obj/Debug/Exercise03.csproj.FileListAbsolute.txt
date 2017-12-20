@@ -1,5 +1,0 @@
-C:\Users\bsaysavath\Desktop\Code\Chapter03\Exercise03\bin\Debug\Exercise03.exe.config
-C:\Users\bsaysavath\Desktop\Code\Chapter03\Exercise03\bin\Debug\Exercise03.exe
-C:\Users\bsaysavath\Desktop\Code\Chapter03\Exercise03\bin\Debug\Exercise03.pdb
-C:\Users\bsaysavath\Desktop\Code\Chapter03\Exercise03\obj\Debug\Exercise03.exe
-C:\Users\bsaysavath\Desktop\Code\Chapter03\Exercise03\obj\Debug\Exercise03.pdb

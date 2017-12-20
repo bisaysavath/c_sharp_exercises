@@ -1,5 +1,0 @@
-C:\Users\bsaysavath\Desktop\Code\Chapter03\SelectionStatements\bin\Debug\SelectionStatements.exe.config
-C:\Users\bsaysavath\Desktop\Code\Chapter03\SelectionStatements\bin\Debug\SelectionStatements.exe
-C:\Users\bsaysavath\Desktop\Code\Chapter03\SelectionStatements\bin\Debug\SelectionStatements.pdb
-C:\Users\bsaysavath\Desktop\Code\Chapter03\SelectionStatements\obj\Debug\SelectionStatements.exe
-C:\Users\bsaysavath\Desktop\Code\Chapter03\SelectionStatements\obj\Debug\SelectionStatements.pdb

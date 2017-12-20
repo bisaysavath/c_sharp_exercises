@@ -1,5 +1,0 @@
-C:\Users\bsaysavath\Desktop\Code\Chapter03\CastingConverting\bin\Debug\CastingConverting.exe.config
-C:\Users\bsaysavath\Desktop\Code\Chapter03\CastingConverting\bin\Debug\CastingConverting.exe
-C:\Users\bsaysavath\Desktop\Code\Chapter03\CastingConverting\bin\Debug\CastingConverting.pdb
-C:\Users\bsaysavath\Desktop\Code\Chapter03\CastingConverting\obj\Debug\CastingConverting.exe
-C:\Users\bsaysavath\Desktop\Code\Chapter03\CastingConverting\obj\Debug\CastingConverting.pdb

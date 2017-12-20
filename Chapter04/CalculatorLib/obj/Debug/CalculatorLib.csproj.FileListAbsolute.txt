@@ -1,7 +1,0 @@
-C:\Users\bsaysavath\Desktop\Code\Chapter04\CalculatorLib\bin\Debug\CalculatorLib.dll
-C:\Users\bsaysavath\Desktop\Code\Chapter04\CalculatorLib\bin\Debug\CalculatorLib.pdb
-C:\Users\bsaysavath\Desktop\Code\Chapter04\CalculatorLib\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
-C:\Users\bsaysavath\Desktop\Code\Chapter04\CalculatorLib\obj\Debug\CalculatorLib.csprojResolveAssemblyReference.cache
-C:\Users\bsaysavath\Desktop\Code\Chapter04\CalculatorLib\obj\Debug\CalculatorLib.dll
-C:\Users\bsaysavath\Desktop\Code\Chapter04\CalculatorLib\obj\Debug\CalculatorLib.pdb
-C:\Users\bsaysavath\Desktop\Code\Chapter04\CalculatorLib\obj\Debug\CalculatorLib.csproj.CoreCompileInputs.cache

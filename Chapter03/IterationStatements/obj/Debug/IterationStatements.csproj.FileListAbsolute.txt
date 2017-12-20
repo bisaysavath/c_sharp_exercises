@@ -1,6 +1,0 @@
-C:\Users\bsaysavath\Desktop\Code\Chapter03\IterationStatements\bin\Debug\IterationStatements.exe.config
-C:\Users\bsaysavath\Desktop\Code\Chapter03\IterationStatements\bin\Debug\IterationStatements.exe
-C:\Users\bsaysavath\Desktop\Code\Chapter03\IterationStatements\bin\Debug\IterationStatements.pdb
-C:\Users\bsaysavath\Desktop\Code\Chapter03\IterationStatements\obj\Debug\IterationStatements.csprojResolveAssemblyReference.cache
-C:\Users\bsaysavath\Desktop\Code\Chapter03\IterationStatements\obj\Debug\IterationStatements.exe
-C:\Users\bsaysavath\Desktop\Code\Chapter03\IterationStatements\obj\Debug\IterationStatements.pdb
