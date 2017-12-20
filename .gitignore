@@ -1,6 +1,31 @@
-# Ignore everything
-*
+# Ignore thess:
+*.json
+*.proj
+*.sln
+*.csproj
+*.cache
+*.txt
+*.xproj
+*.user
+*.suo
+*.exe
+*.config
+*.pdb
+*.manifest
+*.dg
+*.dll
+*.rsp
+*.xml
+Debug/
+Release/
+packages/
+obj/
+Properties/
+.vs/
+.vscode/
 
-# Except
+
+
+# Except:
 !.gitignore
 !*.cs
