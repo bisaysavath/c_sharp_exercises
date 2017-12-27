@@ -23,8 +23,7 @@ obj/
 Properties/
 .vs/
 .vscode/
-
-
+.DS_Store
 
 # Except:
 !.gitignore
