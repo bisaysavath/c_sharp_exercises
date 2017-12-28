@@ -1,10 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 using static System.Console;
+using System.Threading;
 
 namespace Packt.CS7
 {
-    public partial class Person
+    public partial class Person : IComparable<Person>
     {
         // fields
         public string Name;
@@ -32,6 +33,117 @@ namespace Packt.CS7
         public Person ProcreateWith(Person partner)
         {
             return Procreate(this, partner);
+        }
+
+        // operator to "multiply"
+        public static Person operator *(Person p1, Person p2)
+        {
+            return Person.Procreate(p1, p2);
+        }
+
+        // method with a cloal function
+        public static int Factorial(int number)
+        {
+            if (number < 0)
+            {
+                throw new ArgumentException($"{nameof(number)} cannot be less than zero.");
+            }
+            return localFactorial(number);
+
+            int localFactorial(int localNumber)
+            {
+                if (localNumber < 1) return 1;
+                return localNumber * localFactorial(localNumber - 1);
+            }
+        }
+
+        // event
+        public event EventHandler Shout;
+
+        // field
+        public int AngerLevel;
+
+        // method
+        public void poke()
+        {
+            AngerLevel++;
+            if (AngerLevel >= 3)
+            {
+                // if something is listening...
+                Shout?.Invoke(this, EventArgs.Empty);
+            }
+        }
+
+        public int CompareTo(Person other)
+        {
+            return Name.CompareTo(other.Name);
+        }
+
+        public override string ToString()
+        {
+            return $"{Name} is a {base.ToString()}";
+        }
+    }
+
+    public class PersonComparer : IComparer<Person>
+    {
+        public int Compare(Person x, Person y)
+        {
+            // Compare the Name lengths...
+            int temp = x.Name.Length.CompareTo(y.Name.Length);
+
+            // ...if they are equal...
+            if (temp == 0)
+            {
+                // ...then sort by the Names...
+                return x.Name.CompareTo(y.Name);
+            }
+            else
+            {
+                // ...otherwise sort by the lengths
+                return temp;
+            }
+        }
+    }
+
+    public class Thing
+    {
+        public object Data = default(object);
+        public string Process(String input)
+        {
+            if (Data == input)
+            {
+                return Data.ToString() + Data.ToString();
+            }
+            else
+            {
+                return Data.ToString();
+            }
+        }
+    }
+
+    public class GenericThing<T> where T : IComparable, IFormattable
+    {
+        public T Data = default(T);
+        public string Process(string input)
+        {
+            if (Data.ToString().CompareTo(input) == 0)
+            {
+                return Data.ToString() + Data.ToString();
+            }
+            else
+            {
+                return Data.ToString();
+            }
+        }
+    }
+
+    public static class Squarer
+    {
+        public static double Square<T>(T input) where T : IConvertible
+        {
+            double d = input.ToDouble(Thread.CurrentThread.CurrentCulture);
+            return d * d;
         }
     }
 }
