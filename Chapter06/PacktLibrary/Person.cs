@@ -83,6 +83,18 @@ namespace Packt.CS7
         {
             return $"{Name} is a {base.ToString()}";
         }
+
+        public void TimeTravel(DateTime when)
+        {
+            if (when <= DateOfBirth)
+            {
+                throw new PersonException("If you travel back in time to date earlier than your own birth, then the universe will explode!");
+            }
+            else
+            {
+                WriteLine($"Welcome to {when:yyyy}!");
+            }
+        }
     }
 
     public class PersonComparer : IComparer<Person>
@@ -145,5 +157,12 @@ namespace Packt.CS7
             double d = input.ToDouble(Thread.CurrentThread.CurrentCulture);
             return d * d;
         }
+    }
+
+    public class PersonException : Exception
+    {
+        public PersonException() : base() { }
+        public PersonException(string message) : base(message) { }
+        public PersonException(string message, Exception innerException) : base(message, innerException) { }
     }
 }
