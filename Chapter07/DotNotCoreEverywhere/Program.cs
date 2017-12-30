@@ -7,7 +7,6 @@ namespace DotNotCoreEverywhere
         static void Main(string[] args)
         {
             WriteLine("I can run everywhere!");
-            ReadLine();
         }
     }
 }
