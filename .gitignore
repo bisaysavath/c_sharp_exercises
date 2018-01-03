@@ -28,3 +28,4 @@ Properties/
 # Except:
 !.gitignore
 !*.cs
+!*.csproj
