@@ -11,11 +11,18 @@ namespace Packt.CS7
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
+            // to use Microsoft SQL Server, uncomment the following
+            // optionsBuilder.UserSqlServer
             optionsBuilder.UseSqlServer(
                 @"Data Source=(localdb)\mssqllocaldb;" +
                 "Initial Catalog=Northwind;" +
                 "Integrated Security=true;" +
                 "MultipleActiveResultSets=true;");
+
+            // to use SQLite, uncomment the following
+            // string path = System.IO.Path.Combine(
+            // System.Environment.CurrentDirectory, "Northwind.db");
+            // optionBuilder.UseSqlite($"Filename={path}");
         }
     }
 }
