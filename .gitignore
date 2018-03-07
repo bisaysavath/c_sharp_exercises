@@ -29,3 +29,4 @@ Properties/
 !.gitignore
 !*.cs
 !*.csproj
+!settings.xml
