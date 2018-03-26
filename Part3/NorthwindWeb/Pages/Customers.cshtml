@@ -1,0 +1,22 @@
+﻿@page
+@model NorthwindWeb.Pages.CustomersModel
+
+<div class="row">
+    <h1 class="display-2">Customers</h1>
+    @foreach (string country in Model.CustomersByCountry.Keys)
+    {
+        <table class="table">
+            <thead class="thead-inverse">
+                <tr><th>@country</th></tr>
+            </thead>
+            <tbody>
+                @foreach (var customerName in Model.CustomersByCountry[country])
+                {
+                    <tr>
+                        <td><a href="customer_details?customerID=@customerName.CustomerID">@customerName.ContactName</a></td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+</div>
