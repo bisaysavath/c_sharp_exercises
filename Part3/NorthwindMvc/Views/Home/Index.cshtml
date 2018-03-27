@@ -1,15 +1,41 @@
-﻿@{
+﻿@model Packt.CS7.HomeIndexViewModel
+@{
     ViewData["Title"] = "Home Page";
 }
 
 <div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="6000">
     <ol class="carousel-indicators">
-        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-        <li data-target="#myCarousel" data-slide-to="1"></li>
-        <li data-target="#myCarousel" data-slide-to="2"></li>
-        <li data-target="#myCarousel" data-slide-to="3"></li>
+        @for (int c = 0; c < Model.Categories.Count; c++)
+        {
+            if (c == 0)
+            {
+                <li data-target="#myCarousel" data-slide-to="@c" class="active"></li>
+            }
+            else
+            {
+                <li data-target="#myCarousel" data-slide-to="@c"></li>
+            }
+        }
     </ol>
     <div class="carousel-inner" role="listbox">
+        @for (int c = 0; c < Model.Categories.Count; c++)
+        {
+            if (c == 0)
+            {
+                <div class="item active">
+                    <img src="~/images/category@(Model.Categories[c].CategoryID).jpg" alt="@Model.Categories[c].CategoryName" class="img-responsive" />
+                    <div class="carousel-caption" role="option">
+                        <p>
+                            @Model.
+                            <a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkID=525028&clcid=0x409">
+                                Learn More
+                            </a>
+                        </p>
+                    </div>
+                </div>
+            }
+
+        }
         <div class="item active">
             <img src="~/images/banner1.svg" alt="ASP.NET" class="img-responsive" />
             <div class="carousel-caption" role="option">

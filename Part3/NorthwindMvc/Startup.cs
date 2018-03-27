@@ -27,7 +27,9 @@ namespace NorthwindMvc
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddDbContext<ApplicationDbContext>(options =>
-                options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
+                options.UseSqlServer("Server=(localdb)\\mssqllocaldb;" +
+                  "Database=Northwind;Trusted_Connection=True;" +
+                  "MultipleActiveResultSets=true"));
 
             services.AddIdentity<ApplicationUser, IdentityRole>()
                 .AddEntityFrameworkStores<ApplicationDbContext>()
