@@ -11,6 +11,7 @@ using Microsoft.Extensions.DependencyInjection;
 using NorthwindMvc.Data;
 using NorthwindMvc.Models;
 using NorthwindMvc.Services;
+using Packt.CS7;
 
 namespace NorthwindMvc
 {
@@ -26,10 +27,9 @@ namespace NorthwindMvc
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddDbContext<ApplicationDbContext>(options =>
-                options.UseSqlServer("Server=(localdb)\\mssqllocaldb;" +
-                  "Database=Northwind;Trusted_Connection=True;" +
-                  "MultipleActiveResultSets=true"));
+            services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
+
+            services.AddDbContext<Northwind>(options => options.UseSqlServer("Server=(localdb)\\mssqllocaldb;Database=Northwind;Trusted_Connection=True;MultipleActiveResultSets=true"));
 
             services.AddIdentity<ApplicationUser, IdentityRole>()
                 .AddEntityFrameworkStores<ApplicationDbContext>()
